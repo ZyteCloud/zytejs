@@ -15,5 +15,5 @@ const z = new Zyte({
     const ok = await getOk();
     console.log(ok)
     // Result: { status: 200, message: 'Ok', data: null }
-})
+})();
 ```

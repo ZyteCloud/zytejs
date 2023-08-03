@@ -33,3 +33,10 @@ whatwg-url@^5.0.0:
   dependencies:
     tr46 "~0.0.3"
     webidl-conversions "^3.0.0"
+
+zytejs@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/zytejs/-/zytejs-1.0.0.tgz#38ff6798997194dbf33fe880dd7eac388b191ac2"
+  integrity sha512-V9RgsiinYvASCiM8tU3vMgp2oiy7079JWghGBH6yp/QxTELTVmh8lhCVthRpsbdRKPnvINYrvRPBUaF+FlckeQ==
+  dependencies:
+    cross-fetch "^4.0.0"
